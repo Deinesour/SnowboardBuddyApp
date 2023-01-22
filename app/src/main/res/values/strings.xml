@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+
+    <string-array name="homeOptions">
+        <item>Board Recommender</item>
+        <item>Weather</item>
+    </string-array>
+
+    <string-array name="abilityOptions">
+        <item>Beginner</item>
+        <item>Intermediate</item>
+        <item>Expert</item>
+    </string-array>
+
+    <string-array name="genderOptions">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="weightOptions">
+        <item>115</item>
+        <item>120</item>
+        <item>125</item>
+        <item>130</item>
+        <item>135</item>
+        <item>140</item>
+        <item>145</item>
+        <item>150</item>
+        <item>155</item>
+        <item>160</item>
+        <item>165</item>
+        <item>170</item>
+        <item>175</item>
+        <item>180</item>
+        <item>185</item>
+        <item>190</item>
+        <item>195</item>
+        <item>200</item>
+    </string-array>
+
+    <string-array name="heightOptions">
+        <item>152</item>
+        <item>158</item>
+        <item>163</item>
+        <item>168</item>
+        <item>173</item>
+        <item>178</item>
+        <item>183</item>
+        <item>188</item>
+        <item>193</item>
+    </string-array>
+
+
+</resources>
